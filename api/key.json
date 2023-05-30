@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "consumo-energia-b488c",
+  "private_key_id": "64170077cc94add739dc8e69676e4cb00f26f08b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNyxZ1h0BSdbXj\nkgGVfIlHX1DZCKBvXMaLZoZuyDdrDU+FqvUf++EcYDL7VW9E5K+UHtBFyAd1lwOO\nA2hyoU3nNCHXMZyZKEFN/qfD3xM34puAFRTyahX6Ic6DuzmLL8/xL5Jh3XdaVBp6\nvVLlB4xfeCMR0sUgNL+9j9ABzJZ1yL6g7dPuu9tKPmFi5G21b1ZRd8sVaBBe3+Wr\nlcnxr0MdmBXwDf5nWWnYF4FsPP7xrDBSXctpc/p3eBxOtaGNpkbM9DxlvYQuVA0k\nUS/txn6TpyvJdqgRK/HvvzqSTH++WZKjxd3aQKA3fTr1kLZKY0Q8JWiB5LLJJ/W3\nmHN6+/YLAgMBAAECggEAM+RRefpMXF6lKkifUJ/yB8a/nrJ/rgURZYZJQLcIzlwx\nYK2+mL2NQnf5cwnUgGU/5tQsRWROiTa2pUEzva/x8mphXB988tvFN9MOX6Qo9u8T\nseTe/s+EUinjJrF3raK1RwZtXXMYTPUnJisGM41HNq2W/kANB/V1IeoZE9MQX4t2\neVHINIb0dh4Pgc0QaOeSbWfMDumTYuRhC7JsfgFP3PzEi6ctnZv5Wjz0+uStUG6d\nRWtTHLWkg9kMhSa/NV7NctF651uFVpl9Un7ZkFdUd98lN3EHuAB0AK09/sA/SZDe\n131QxjuDQyxsJJBCw3Vp6ERW3fArYmtoMf82IvtmKQKBgQD324MvJVF1y/euTecM\nNE/zCTu7YsUR2JWWfL6hxgU1Aeut+E/S0Bf5KQA+atW9b0JYKBYOk6g2mlj7TDxA\n8ZL9+TMtmIoGxaSpBbml86hs+xC+2YjSs6uK4Y8esw+rHCybKB+GHqP+Q99eOgcn\nYedWK840gS8QzO59d7niywT3eQKBgQDUjdCNX/D0CtHg3k/8B5oikWdkC1Bl8cOh\nMzOi8n87UIcGe5fDbmVrSisoJWMR7ymxMFIABR4e4exCArXJm3aX/EHLSR/OJbIw\nP1ZzpLtGyDC5cHC3WbwLLM9s8gRXX9zyxKJZgX/3Wg6iIyTgM96MjzHARXlzwBdB\nb3HAuviEowKBgBp5P9HRUpoaZyIfAAa1r7Rt0At7yUDWuWORf2sYE4ZN5jZ2x0/l\nGipqzrPcBWhucc+ouHJmIxlx8v8kbWsiYmjuLSE5ocSHZ8cF7YZkOCErz+YSpiKb\nPj9fSEInLg1AvSL1biiNLUcDSOBvokP6mRMDKstA4R4SRYbxOtGWjblBAoGBALgM\nhEWmidIHfGymk8O8IW9FUK2ETn23tpni6Bd0u071D7ZBVsxWz2LzuiLtHLfuy78u\nBBMYW1iKcDVIe3izMSGxwJbyHqQ2Z/D3JzjDr5Y+ylIIVtGs1fMnPgUsGy49R+i+\n84VlaRUZ2gnzPH8W6uHzLDU880mTT4/NnEYyn/bZAoGBANC34uwSNN9Zh+nQhNAv\ncnUNHZPDihdqT/wgiSAiCiQtT9LcJWFl/zVU1t9g64ZzMmmkwYQgbonbPuuH1T/0\nCzDg5BhYvu7L43tfBAhbsFZ4pfj8SlgJTJCH3u1HkIV1JtPllYWnIKynVvfziE+4\nsSFaAHDOdD4U4YuqMpkadl3Z\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wf6f1@consumo-energia-b488c.iam.gserviceaccount.com",
+  "client_id": "108377459425339222281",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wf6f1%40consumo-energia-b488c.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

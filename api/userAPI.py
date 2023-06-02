@@ -4,7 +4,7 @@ from firebase_admin import firestore
 
 db = firestore.client()
 user_Ref = db.collection('BeJpaD0QzVO7gdx86gP0w88rQ2D3')
-doc_Ref = db.collection('BeJpaD0QzVO7gdx86gP0w88rQ2D3').document('usE5jcmiLjHtxQNs95RX')
+doc_Ref = db.collection('BeJpaD0QzVO7gdx86gP0w88rQ2D3').document('yJjPQ6ZXt6pNzkZ612v3')
 
 userAPI = Blueprint('userAPI', __name__)
 
